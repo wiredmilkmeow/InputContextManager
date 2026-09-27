@@ -69,22 +69,6 @@ GameplayContext:Destroy()
 
 ---
 
-## Installation
-
-### Wally
-
-```toml
-InputContextManager = "milkmeow/input-context-manager"
-```
-
-### GitHub
-
-```text
-https://github.com/wiredmilkmeow/InputContextManager
-```
-
----
-
 ## About
 
 **InputContextManager** is a Luau utility by **Milkmeow**, built to make Roblox's Input Action System easier to configure and integrate into code-driven development workflows. 
