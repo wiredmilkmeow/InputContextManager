@@ -1,0 +1,12 @@
+[package]
+name = "milkmeow/inputcontextmanager"
+description = ""
+license = "MIT"
+authors = ["milkmeow"]
+version = "0.1.2"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+repository = "https://github.com/wiredmilkmeow/InputContextManager"
+exclude = ["aftman.toml"]
+
+[dependencies]
